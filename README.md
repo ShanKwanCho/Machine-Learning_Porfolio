@@ -18,7 +18,7 @@ Contents
     - [ ]  
     - [ ]  
     - [ ]     
-- [x ] Deep Learning 
+- [x] Deep Learning 
     - [ ]  
     - [ ]  
     - [ ]  
