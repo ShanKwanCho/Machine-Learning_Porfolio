@@ -12,7 +12,17 @@ Note: Data that used in this portfolio is for academic and demonstration purpose
 
 Contents
 - [x] Machine Learning  
-    - [ ]        
-- [ ] Deep Learning 
-
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ]     
+- [x ] Deep Learning 
+    - [ ]  
+    - [ ]  
+    - [ ]  
+    - [ ] 
+    - [ ]  
+    - [ ] 
 
