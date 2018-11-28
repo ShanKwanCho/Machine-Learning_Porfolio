@@ -11,13 +11,16 @@ to Venkatesh Tadinada.
 Note: Data that used in this portfolio is for academic and demonstration purpose ONLY!!! 
 
 Contents
+
 - [x] Machine Learning  
     - [ ]  
     - [ ]  
     - [ ]  
     - [ ]  
     - [ ]  
-    - [ ]     
+    - [ ]    
+    Tools: scikit-learn, Pandas, Seaborn, Matplotlib, numPy
+     
 - [x] Deep Learning 
     - [ ]  
     - [ ]  
@@ -26,3 +29,4 @@ Contents
     - [ ]  
     - [ ] 
 
+    Tools: scikit, Matplotlib, numPy, Keras, TensorFlow
