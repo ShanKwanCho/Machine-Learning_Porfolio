@@ -4,6 +4,6 @@ Predicted Google opening stock price based on last 5 year’s data of Google Sto
 
 - [x]  ML problem:        Stock Price Prediction
 - [x] Alogrithms:           RNN(LSTM), Deep Learning, Machine Learning
-- [x]  Technologies:      Numpy, Pandas, mathplotlib, keras 
+- [x]  Technologies:      Numpy, Pandas, mathplotlib, keras, Tensorflow 
 - [x]  Data:                    Google Stock
 - [x]  Implementation:  Google Colab
