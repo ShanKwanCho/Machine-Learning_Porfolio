@@ -1,10 +1,14 @@
-California Housing Price
+ELO Merchant Category Recommendation ( Kaggle Competition )
 
-Compared income category proportion in Stratified Sampling and Random Sampling. Visualized the data to gain insights with Matplotlib. Processed the categorical input feature to a one-hot vector and took care of missing values. Analyzed this end to end machine learning project with different models. 
+ELO has ML models to understand the importance of aspects and preferences for
+their customer’s lifecycle.
 
-- [x]  ML problem:        House Price Prediction
-- [x]  Technologies:      Numpy, Pandas, mathplotlib, sklearn 
-- [x]  Implementation:  Google Colab
+We use Root Mean Square Error (RMSE) to predict the customer loyalty.
+So we can give better opportunities to most loyalty customers (i.e. promotions )
 
 
+- [x]  ML problem:        ELO Merchant Category Recommendation
+- [x]  Technologies:      Numpy, Seaborn, Pandas, Mathplotlib, Sklearn , Lightgbm
+- [x]  Implementation:    Google Colab
 
+Note: Learning Outcome attached with PDF document.
